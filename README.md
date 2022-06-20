@@ -29,6 +29,8 @@ Rosendro - симулятор беспилотника. Предназначен
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/80961256/174668023-c2c43d93-ed62-4058-a11d-58ecef43e8c1.gif)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80961256/174667475-bfe2784d-35f0-4929-873e-befdfaba09f3.gif)
 
-
+## 🛠 Стек:
+- Unity3d
+- C#
 
 
