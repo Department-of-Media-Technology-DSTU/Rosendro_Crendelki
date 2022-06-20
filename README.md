@@ -23,5 +23,11 @@ Rosendro - симулятор беспилотника. Предназначен
 - Локации с различными погодными условиями: ясная погода, снег, дождь и туман
 - Экзаменационный уровень, по окончанию которого программа подсчитает баллы и выведет их на экран для оценки профессионализма экзаменующегося
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/80961256/174667574-d08a8044-2725-49b8-ae01-a1cc9812150d.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/80961256/174667988-4ae63a07-6da9-44af-8cfe-861c4bb82daa.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/80961256/174668023-c2c43d93-ed62-4058-a11d-58ecef43e8c1.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/80961256/174667475-bfe2784d-35f0-4929-873e-befdfaba09f3.gif)
+
+
 
 
